@@ -121,38 +121,6 @@ Features
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bilelmessiouri38&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=bilelmessiouri38&theme=tokyonight"/>
-</p>
-
----
-
-# 🧠 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilelmessiouri38&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilelmessiouri38&theme=tokyo-night"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
