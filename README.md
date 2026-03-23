@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#2045a1,50:203a43,100:2c5364&height=200&section=header&text=Bilel%20Messiouri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bilel%20Messiouri&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h2 align="center">Full-Stack Developer | Backend & Scalable Systems</h2>
